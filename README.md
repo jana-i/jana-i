@@ -1,7 +1,9 @@
 ## Hi 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jana-i&layout=compact)
-
+<div align="center">
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jana-i&theme=tokyonight&layout=compact&hide_border=true&card_width=500&langs_count=9&hide=ASP.NET%0#gh-light-mode-only" />
+</div>
+  
 <!--
 **jana-i/jana-i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
